@@ -1,5 +1,5 @@
 # T227-Change-strategy-at-work
-T227, Change, strategy at work Open University
+T227, Change, strategy at work - Open University
 
 Just as how certanity and security is considered as one of the basic human needs, acording to the pycholgest Abraham Masslow.
 Change, vairy, and uncertanity too is far consideres as one of the infintie truths, even since the greek philsophers, and it's
