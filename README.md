@@ -8,6 +8,9 @@ consicered as one of the constants in life.
 How people are reacting with change, is captured and repesneted by the "copying cycle" model:
 Four stages of change
 
+![image](https://user-images.githubusercontent.com/63984422/134417560-20ddda1c-be3d-40df-8653-912dbcbf6286.png)
+
+
 1. Denial
 2. Defense
 3. Internlization
