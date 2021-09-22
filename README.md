@@ -13,9 +13,21 @@ Four stages of change
 
 1. Denial
 2. Defense
-3. Internlization
-4. Addopation 
+3. Addopation
+4. discarding
+5.  Internlization
 
 
 What define what the change is, is the nature, intensity, and repetation of this change.
 How that change is effecting, or empacting us, is represented through the change model below. 
+
+![image](https://user-images.githubusercontent.com/63984422/134417738-269bb4a5-286c-4f76-9656-9055701be934.png)
+
+
+What are the types of changes?
+
+According to Ralph Stacey (1996), there are three kind of changes
+
+1. closed
+2. open
+3. contained
